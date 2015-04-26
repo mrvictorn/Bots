@@ -1,0 +1,9 @@
+{
+  "name": "Bots",
+  "main": "main.js",
+  "dependencies": {
+    "minimist": "^1.1.1",
+    "node-redis-client": "0.0.10",
+    "underscore": "^1.8.3"
+  }
+}
